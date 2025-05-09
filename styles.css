@@ -1,0 +1,22 @@
+body {
+    background: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas {
+    background: #111;
+    display: block;
+    margin: auto;
+    border: 2px solid #444;
+}
+
+#score {
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
